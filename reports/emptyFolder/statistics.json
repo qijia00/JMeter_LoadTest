@@ -1,0 +1,47 @@
+{
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 98.57999999999993,
+    "minResTime" : 58.0,
+    "maxResTime" : 183.0,
+    "pct1ResTime" : 128.0,
+    "pct2ResTime" : 130.0,
+    "pct3ResTime" : 181.93000000000006,
+    "throughput" : 20.177562550443906,
+    "receivedKBytesPerSec" : 1199.0844628039245,
+    "sentKBytesPerSec" : 2.3054441585956416
+  },
+  "Bing Search HTTP Request" : {
+    "transaction" : "Bing Search HTTP Request",
+    "sampleCount" : 100,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 72.83999999999999,
+    "minResTime" : 58.0,
+    "maxResTime" : 182.0,
+    "pct1ResTime" : 85.80000000000001,
+    "pct2ResTime" : 99.74999999999994,
+    "pct3ResTime" : 181.72999999999985,
+    "throughput" : 10.116337885685383,
+    "receivedKBytesPerSec" : 1077.1324331373294,
+    "sentKBytesPerSec" : 1.1459914011127972
+  },
+  "Google Search HTTP Request" : {
+    "transaction" : "Google Search HTTP Request",
+    "sampleCount" : 100,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 124.32000000000001,
+    "minResTime" : 116.0,
+    "maxResTime" : 183.0,
+    "pct1ResTime" : 129.9,
+    "pct2ResTime" : 140.5999999999999,
+    "pct3ResTime" : 182.91999999999996,
+    "throughput" : 10.088781275221953,
+    "receivedKBytesPerSec" : 124.88610711763518,
+    "sentKBytesPerSec" : 1.1625744047619047
+  }
+}
